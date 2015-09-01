@@ -1,6 +1,5 @@
-*********************************
-* Adaptive Schedulers for Storm *
-*********************************
+Adaptive Schedulers for Storm
+-----------------------------
 
 General Informations
 --------------------
